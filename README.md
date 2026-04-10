@@ -1,4 +1,4 @@
-# 👨‍💻 Al Mahmud Zihad | Front-End Developer & UI Designer
+# 👨‍💻 Hi there, I'm Al Mahmud Zihad
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a0287ab7-7100-40a7-9931-14fb53013549" />
 
@@ -16,6 +16,10 @@
 
 ⚡ Love to build modern UI with Tailwind CSS
 - ---
+
+## 🧑‍💻 Professional Summary
+
+Frontend Developer with a strong focus on building responsive, user-friendly web applications using modern technologies like React and Tailwind CSS. Passionate about clean UI, performance, and continuous learning.
 
 ## 🛠️ Technology Arsenal
 
