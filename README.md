@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="githubbannerimg" src="https://github.com/user-attachments/assets/815e28ef-6b88-4a53-a175-718c1f3cd8bd" />
 # 👨‍💻 Hi there, I'm Al Mahmud Zihad
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a0287ab7-7100-40a7-9931-14fb53013549" />
