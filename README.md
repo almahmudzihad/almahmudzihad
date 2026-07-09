@@ -71,23 +71,6 @@ I'm a passionate **Full Stack Developer (MERN Stack)** from **Bangladesh**. I en
 
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=almahmudzihad&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almahmudzihad&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=almahmudzihad&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
